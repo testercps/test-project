@@ -1,0 +1,16 @@
+cari ratio terlebih dahulu :
+ 
+(200/umur asset)%
+ 
+penyusutan per tahun :
+ 
+nilai buku x ratio
+ 
+tahun terakhir perhitungan nya menjadi
+Nilai Buku - Nilai sisa = penyusutan pertahun
+ 
+contoh asset tanggal 01/04/2005 dengan umur aset 16 tahun, ratio 12.5% dan nilai buku 6.500.000. jika dihitung tahun pertama 6.500.000 x 12.5% = 812.500 dan untuk menghitung 1 bulannya 812.500/12 = 67.708,333. di bulan desember 2005 (akhir tahun) total nilai buku 5,890,625
+ 
+untuk tahun selanjutnya nilai sisa buku dikali dengan ratio kembali, 5,890,625 x 12.5% = 736.328,125 dan untuk menghitung 1 bulannya 736.328,125/12 = 61.360,677, setelah diproses akhir bulan per tahunnya maka di bulan desember 2020 nilai sisa buku asetnya akan senilai 794.844,496554.
+ 
+untuk tahun terakhir asetnya maka rumusnya adalah sisa nilai buku/bulan asetnya yaitu bulan april, jadi perhitungan untuk tahun terakhir adalah 794.844,496554/3 = 264.948,165518 perbulan maka hasil yang didapat setelah proses akhir bulan maret 2021 nilai buku akan habis
